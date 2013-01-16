@@ -1,0 +1,1 @@
+alias shortcut='ssh -p ## user@remote.hostname.tld'
