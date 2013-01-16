@@ -1,0 +1,1 @@
+PROMPT_COMMAND='echo "$(history 1 | grep "defaults")" | sed '/^$/d' >> ~/Documents/defaults_history.txt'
